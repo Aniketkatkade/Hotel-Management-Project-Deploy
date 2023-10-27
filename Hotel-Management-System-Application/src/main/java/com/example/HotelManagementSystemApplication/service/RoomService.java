@@ -71,4 +71,8 @@ public class RoomService {
     public String name() {
         return "aniket";
     }
+
+    public String nameC() {
+        return "Virat";
+    }
 }

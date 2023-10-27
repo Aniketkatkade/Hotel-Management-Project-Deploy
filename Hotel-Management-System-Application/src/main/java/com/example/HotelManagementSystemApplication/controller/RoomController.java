@@ -79,6 +79,11 @@ public class RoomController {
         return service.name();
     }
 
+    @GetMapping("virat")
+    public String nameC(){
+        return service.nameC();
+    }
+
 
 
 
