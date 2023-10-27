@@ -84,6 +84,11 @@ public class RoomController {
         return service.nameC();
     }
 
+    @GetMapping("rohit")
+    public String nameCr(){
+        return service.nameCr();
+    }
+
 
 
 

@@ -75,4 +75,8 @@ public class RoomService {
     public String nameC() {
         return "Virat";
     }
+
+    public String nameCr() {
+        return "rohit";
+    }
 }
